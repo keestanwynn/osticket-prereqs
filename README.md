@@ -43,7 +43,7 @@ I created the vm with a Windows 10 OS. Then I create a user name and password to
 <br />
 
 <p>
-<img src="https://i.imgur.com/qa4xSG1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ErugrwQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Using Desktop remote, login to the virtual machine using the IP address. Once inside the vm, download the necessary programs including: IIS in Windows with CGI, PHP Manager, Rewrite Module, PHP, MySQL, HeidiSQL, and OsTicket.
